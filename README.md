@@ -2,4 +2,4 @@
 
 Weather app with Bootstrap and API from AccuWeather
 
-![](img/app)
+![](img/app.png)
